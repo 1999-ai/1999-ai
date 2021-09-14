@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @1999-ai
-- 👀 I’m interested in computer network, computer components and A!I!!
+- 👀 I’m interested in Data Analysis, Program Designing.
 - 🌱 I’m currently learning COMPUTER SYSTEMS AND DATA STRUCTURES.
 - 💞️ I’m looking to collaborate on COMPUTER SYSTEMS.
 - 📫 How to reach me... 
